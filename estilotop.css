@@ -52,7 +52,7 @@ li{
 li:hover{
     cursor:pointer;
     background: rgb(120, 113, 163);
-    transition-duration: 5s;
+    transition-duration: 3s;
     
 }
 
